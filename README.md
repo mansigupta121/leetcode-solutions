@@ -37,15 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/mansigupta121/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+| [1377-frog-position-after-t-seconds](https://github.com/mansigupta121/leetcode-solutions/tree/master/1377-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/mansigupta121/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+| [1377-frog-position-after-t-seconds](https://github.com/mansigupta121/leetcode-solutions/tree/master/1377-frog-position-after-t-seconds) |
 ## Graph Theory
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/mansigupta121/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0997-find-the-town-judge](https://github.com/mansigupta121/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1377-frog-position-after-t-seconds](https://github.com/mansigupta121/leetcode-solutions/tree/master/1377-frog-position-after-t-seconds) |
 ## Topological Sort
 |  |
 | ------- |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mansigupta121/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+## Tree
+|  |
+| ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/mansigupta121/leetcode-solutions/tree/master/1377-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
