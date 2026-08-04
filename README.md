@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mansigupta121/leetcode-solutions/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/mansigupta121/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mansigupta121/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3731-find-missing-elements](https://github.com/mansigupta121/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mansigupta121/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3731-find-missing-elements](https://github.com/mansigupta121/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mansigupta121/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [3731-find-missing-elements](https://github.com/mansigupta121/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
