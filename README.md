@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mansigupta121/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/mansigupta121/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mansigupta121/leetcode-solutions/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/mansigupta121/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansigupta121/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mansigupta121/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
