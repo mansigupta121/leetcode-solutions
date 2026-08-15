@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mansigupta121/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/mansigupta121/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/mansigupta121/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mansigupta121/leetcode-solutions/tree/master/0877-stone-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mansigupta121/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mansigupta121/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3731-find-missing-elements](https://github.com/mansigupta121/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mansigupta121/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mansigupta121/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
